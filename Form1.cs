@@ -169,5 +169,10 @@ namespace Joe_Automotive
 
             cboxOilChange.Focus();
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
