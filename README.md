@@ -1,5 +1,5 @@
 # Joe-Automotive
-
+- Read about this app: https://michellealzoladesign.com/joes-automotive-shop-desktop-app/
 
 
 
